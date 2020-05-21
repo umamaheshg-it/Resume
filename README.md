@@ -11,4 +11,4 @@ M.Tech | 2015
 B.Tech | 2006
 
 #### Certifications
-![certificate](/Certificate.pdf)
+![certificate](./Certificate.pdf)
