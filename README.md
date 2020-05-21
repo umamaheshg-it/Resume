@@ -11,4 +11,4 @@ M.Tech | 2015
 B.Tech | 2006
 
 #### Certifications
-![certificate](/)
+![certificate](/Certificate for Gangavarapu Uma Mahesh for -One Week FDP on ICT Tools.pdf)
